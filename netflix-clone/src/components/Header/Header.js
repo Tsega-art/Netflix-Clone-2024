@@ -15,12 +15,12 @@ const Header = () => {
             <li>
               <img src={NetflixLogo} alt="Netflix Logo" width="100" />
             </li>
-            <li>Netflix</li>
+            {/* <li>Netflix</li> */}
             <li>Home</li>
             <li>TVShows</li>
             <li>Movies</li>
             <li>Latest</li>
-            <li>My List</li>
+            <li>MyList</li>
             <li>Browse by Languages</li>
           </ul>
         </div>
